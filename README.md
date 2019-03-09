@@ -14,6 +14,6 @@ pip install bs4 requests xlwt lxml
 
 ## Acknowledgments
 - This script was made in order to help a very close friend in studying for a TOEFL test.
-- It was my second attempt at web scraping while still being very practical and useful.
+- It was my second attempt at web scraping to help solidify those practices just a bit more
 
 Please do not hesitate to reach out should you have any questions. Thank you very much for reading !
