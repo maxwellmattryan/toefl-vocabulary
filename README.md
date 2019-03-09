@@ -1,21 +1,19 @@
-TOEFL Vocabulary
+# TOEFL Vocabulary
 
-----------
+This Python script scrapes one thousand TOEFL (Test of English as Foreign Language) vocabulary words and writes them to an Excel spreadsheet file. Included data is the word, definition, and example sentence.
 
-This script allows a user to scrape data from a TOEFL vocabulary list of 1,000 words and write the data to an Excel spreadsheet and prints to console.
+Resultant spreadsheet can be found [here](https://drive.google.com/open?id=1jZU0hinLPobFE5RioqUz9hCPLtH0npHe).
 
-The following libraries were used: requests, BeautifulSoup (from bs4), xlwt, and lxml.
+## Libraries
 
-Please feel free to contact me if you have any questions. Thank you for reading !
+You will need to install the following libraries in order to run this script.
 
-----------
+```
+pip install bs4 requests xlwt lxml
+```
 
-Link(s)
+## Acknowledgments
+- This script was made in order to help a very close friend in studying for a TOEFL test.
+- It was my second attempt at web scraping while still being very practical and useful.
 
-Drive (spreadsheet) - https://drive.google.com/open?id=1jZU0hinLPobFE5RioqUz9hCPLtH0npHe
-
-GitHub - https://github.com/maxwellmattryan/TOEFLVocabulary
-
-----------
-
-Last updated: 03/06/2019
+Please do not hesitate to reach out should you have any questions. Thank you very much for reading !
